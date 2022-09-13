@@ -5,7 +5,9 @@
 通过本地代理的方式将https请求代理到一些国内的加速通道上
 
 <a href='https://github.com/docmirror/dev-sidecar'><img alt="GitHub stars" src="https://img.shields.io/github/stars/docmirror/dev-sidecar?logo=github"></a>
-<a href='https://gitee.com/docmirror/dev-sidecar'><img src='./doc/gitee.png' alt='star'/></a>
+
+>
+> 这个项目我fork过来练习吧，毕竟我今年14也不到能喝茶的年龄。可惜我目前对js一窍不通😮‍💨
 
 >
 > Gitee上的同步项目已被封禁，此项目将不再更新与维护 【狗头保命】
